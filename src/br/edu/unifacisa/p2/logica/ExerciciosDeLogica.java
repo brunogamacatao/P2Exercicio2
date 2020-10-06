@@ -79,7 +79,7 @@ public class ExerciciosDeLogica {
   }
   
   public static boolean validaCEP(String cep) {
-    return false;
+    return true;
   }
   
   public static boolean validaCPF(String cpf) {
